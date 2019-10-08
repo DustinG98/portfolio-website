@@ -237,7 +237,6 @@
 							clearInterval(this._gallery_moveIntervalId);
 
 					});
-
 			// Lightbox.
 				$('.gallery.lightbox')
 					.on('click', 'a', function(event) {

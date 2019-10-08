@@ -90,7 +90,7 @@
 
     //typed js
     $(".typed").typed({
-        strings: ["My Name is M.Reza", "I'm a Web Designer", "Love Simplicity"],
+        strings: ["My Name is D.Graham", "I'm a Web Developer", "Love Simplicity"],
         typeSpeed: 100,
         backDelay: 900,
         // loop
@@ -141,7 +141,7 @@
     $('.portfolio-image li a').magnificPopup({
       type: 'image',
       gallery: {
-        enabled: true
+        enabled: false
       }
       // other options
     });

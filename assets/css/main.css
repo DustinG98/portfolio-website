@@ -29,6 +29,9 @@
 	ol, ul {
 		list-style: none;
 	}
+	li{
+		list-style: none;
+	}
 
 	blockquote, q {
 		quotes: none;
@@ -7473,7 +7476,7 @@
 
 		.items.style1.medium > * {
 			padding: 2.1875rem 2.1875rem 0.1875rem 2.1875rem ;
-			width: 33.33333%;
+			width: 40%;
 		}
 
 			.items.style1.medium > *:nth-child(-n + 3) {

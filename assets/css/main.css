@@ -8467,13 +8467,20 @@ nav h3 {
 				 opacity: 1;
 				}
 				}
-				@media screen and (max-width: 500px) {
+				@media screen and (max-width: 480px) {
 					.container {
 						max-width: 90%;
+					}
+					.bannerimg {
+						height: 100px;
 					}
 				}
 				.fade-in {
 				  opacity: 0;
 				  animation: fadeIn 0.2s ease-in 1 forwards;
 				}
+		.bannerimg {
+			height: 200px; 
+			border-radius: 50%;
+		}
 				
